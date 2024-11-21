@@ -1,16 +1,3 @@
-# cv_project
+ODD SCHOOL STRUCTURE.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Odd School Structure Management System is a Flutter-based app designed to address structural anomalies in schools. It allows students, administrators, and the Ministry of Education to report, review, and approve requests related to school infrastructure issues. The app ensures a streamlined workflow, transparent communication, and efficient resolution of problems, improving resource allocation and policy implementation in the education sector.
